@@ -1,0 +1,17 @@
+#BattleRoyale версии 3.0.1
+#Разработан itzHiti для Tera-Minecraft
+
+name: BattleRoyale
+main: kz.itzHiti.BattleRoyale.Main
+version: 3.0.1
+author: itzHiti
+description: Плагин для сервера Tera-Minecraft.
+commands:
+  brstart:
+    description: Начать игру заранее
+  brstop:
+      description: Остановить текущую игру
+  battleroyale:
+    description: Создатель плагина (я)
+    aliases:
+      - itzHiti
